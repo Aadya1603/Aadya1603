@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/0FDFXPC"  />
-</div>
+
 
 ###
 
@@ -76,8 +74,4 @@
   <img src="https://streak-stats.demolab.com?user=Aadya1603&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Aadya1603/Aadya1603/output/snake.svg" alt="Snake animation" />
-
-###
